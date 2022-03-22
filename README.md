@@ -1,5 +1,5 @@
 # ToDo-App
-A simple ToDo application through JavaScript.
+A simple ToDo application through JavaScript. Here you can add your todo list and after compilation you can delete it.
 
 You can check here: https://todos-app-khusamayasir.netlify.app/
 
